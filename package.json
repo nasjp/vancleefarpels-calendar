@@ -3,13 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "@radix-ui/react-slot": "^1.1.2",
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"format": "biome format --write src",
+		"lint": "biome lint --write src"
+	},
+	"dependencies": {
+		"@radix-ui/react-slot": "^1.1.2",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
@@ -22,6 +23,7 @@
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
+    "@biomejs/biome": "1.9.4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
