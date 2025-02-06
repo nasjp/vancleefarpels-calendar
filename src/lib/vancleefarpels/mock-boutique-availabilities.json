@@ -1,0 +1,1640 @@
+[
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 0,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-06",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 0,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-07",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 0,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-08",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 0,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-09",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 0,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-10",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 0,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-11",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 2,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-12",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 0,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-13",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 2,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-14",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 0,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-15",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 0,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-16",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 3,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-17",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-18",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 4,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-19",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 4,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-20",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 3,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-21",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 3,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-22",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 4,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-23",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-24",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 0,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-25",
+      "isClosed": true,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 4,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-26",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 3,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-27",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-02-28",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 3,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-01",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 3,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-02",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-03",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-04",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 3,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-05",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 3,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-06",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 4,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-07",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 3,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-08",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 3,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-09",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 4,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-10",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-11",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-12",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-13",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-14",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-15",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-16",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-17",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-18",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-19",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-20",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-21",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-22",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-23",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-24",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-25",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-26",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 4,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-27",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 3,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-28",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 4,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-29",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 3,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-30",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-03-31",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-04-01",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-04-02",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 0,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-04-03",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 0,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-04-04",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-04-05",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-04-06",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-04-07",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-04-08",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 1,
+      "recordDate": "2025-04-09",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-04-10",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-04-11",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-04-12",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-04-13",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 2,
+      "recordDate": "2025-04-14",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 3,
+      "recordDate": "2025-04-15",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 4,
+      "recordDate": "2025-04-16",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 4,
+      "recordDate": "2025-04-17",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 2,
+      "recordDate": "2025-04-18",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-04-19",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-04-20",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 1,
+      "recordDate": "2025-04-21",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 3,
+      "recordDate": "2025-04-22",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 3,
+      "recordDate": "2025-04-23",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 2,
+      "recordDate": "2025-04-24",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-04-25",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-04-26",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-04-27",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 3,
+      "recordDate": "2025-04-28",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 0,
+      "recordDate": "2025-04-29",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 4,
+      "recordDate": "2025-04-30",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 3,
+      "recordDate": "2025-05-01",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-02",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 1,
+      "recordDate": "2025-05-03",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 3,
+      "recordDate": "2025-05-04",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-05",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-06",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-07",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-08",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-09",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-10",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-11",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-12",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-13",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-14",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-15",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-16",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-17",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-18",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-19",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-20",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-21",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-22",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-23",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-24",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-25",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-26",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-27",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-28",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-29",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-30",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-05-31",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-01",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-02",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-03",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-04",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-05",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-06",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-07",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-08",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-09",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-10",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-11",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-12",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-13",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-14",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-15",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-16",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-17",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-18",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-19",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-20",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-21",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-22",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-23",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-24",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-25",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-26",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-27",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-28",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-29",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-06-30",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-01",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-02",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-03",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-04",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-05",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-06",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-07",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-08",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-09",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-10",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-11",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-12",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-13",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-14",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-15",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-16",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-17",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-18",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-19",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-20",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-21",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-22",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-23",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-24",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-25",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-26",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-27",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-28",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-29",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-30",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-07-31",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Thursday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-08-01",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Friday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-08-02",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Saturday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-08-03",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Sunday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-08-04",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Monday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-08-05",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Tuesday"
+  },
+  {
+      "startT": "10:30:00.000Z",
+      "serviceSlotsCount": 5,
+      "salesSlotsCount": 5,
+      "recordDate": "2025-08-06",
+      "isClosed": false,
+      "endT": "20:30:00.000Z",
+      "day": "Wednesday"
+  }
+]
